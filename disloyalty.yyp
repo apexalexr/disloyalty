@@ -20,6 +20,11 @@
   "name":"disloyalty",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"_2card_stamp","path":"sprites/_2card_stamp/_2card_stamp.yy",},},
+    {"id":{"name":"_2card","path":"sprites/_2card/_2card.yy",},},
+    {"id":{"name":"_4card_stamp","path":"sprites/_4card_stamp/_4card_stamp.yy",},},
+    {"id":{"name":"_4card","path":"sprites/_4card/_4card.yy",},},
+    {"id":{"name":"_8card","path":"sprites/_8card/_8card.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
